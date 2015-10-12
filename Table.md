@@ -13,59 +13,59 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Bluewhale       |   |       |   |           |   |                           |   |                      |
 | Cargo Dock      |   |       |   |           |   |                           |   |                      |
 | Cloudmarks      |   |       |   |           |   |                           |   |                      |
+| cooktimer		  |   |       |   |           |   |                           |   |                      |
 | Cutespotify  aka CuteSpot    |   | X     |   |           |   |                           |   |                      |
 | Dalvik Stop     |   |       |   |           |   |                           |   |                      |
-| FBReader        |   | X     |   |           |   | called Books              |   |                      |
 | Fahrplan        |   |       |   |           |   |                           |   |                      |
+| FBReader        |   | X     |   |           |   | called Books              |   |                      |
 | Feed Haven      |   |       |   |           |   |                           |   |                      |
 | File Browser    |   |       |   |           |   |                           |   |                      |
 | File manager    |   |       |   |           |   |                           |   |                      |
 | FileCase        |   |       |   |           |   |                           |   |                      |
 | Filetug         |   |       |   |           |   |                           |   |                      |
+| gPodder         |   | X     |   |           |   |                           |   |                      |
 | GPSInfo         |   |       |   |           |   |                           |   |                      |
-| HaveClip        |   |       |   |           |   |                           |   |                      |
+| HaveClip        |   | X     |   |           |   |                           |   |                      |
 | Jolla Together  |   |       |   |           |   |                           |   |                      |
 | Kodimote        |   |       |   |           |   |                           |   |                      |
-| LLs VideoPlayer |   |       |   |           |   |                           |   |                      |
 | Lighthouse  	  |   |       |   |           |   |                           |   |                      |
 | Lists           |   |       |   |           |   |                           |   |                      |
+| LLs VideoPlayer |   |       |   |           |   |                           |   |                      |
 | Markat          |   |       |   |           |   |                           |   |                      |
 | MeeRun          |   |       |   |           |   |                           |   |                      |
 | Modrana         |   | X     |   | X         |   | latest Version is nonarch on openrepos |   | [ more ](https://openrepos.net/content/martink/modrana-0)                     |
 | National Rail   |   |       |   |           |   |                           |   |                      |
 | Nethogs         |   |       |   |           |   |                           |   |                      |
+| openvpn         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
+| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   |                      |
 | Paint           |   |       |   |           |   |                           |   |                      |
 | PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
-| QuasarMX        |   |       |   |           |   |                           |   |                      |
+| qgvdial         |   |       |   |           |   |                           |   |                      |
+| QuasarMX        |   | X     |   |           |   |                           |   |                      |
 | Received        |   |       |   |           |   |                           |   |                      |
 | Recorder        |   |       |   |           |   |                           |   |                      |
-| SailSoma        |   |       |   |           |   |                           |   |                      |
 | Sailbox         |   |       |   |           |   |                           |   |                      |
 | Sailfish Reboot         |   |       |   |           |   |                           |   |                      |
 | SailorGram      |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/sailorgram)                      |
+| SailSoma        |   |       |   |           |   |                           |   |                      |
 | SciCalculator   |   |       |   |           |   |                           |   |                      |
 | Screen-Message  |   |       |   |           |   |                           |   |                      |
-| ScreenTapShot   |   |       |   |           |   |                           |   |                      |
 | Screenshot      |   |       |   |           |   |                           |   |                      |
-| Sidudict        |   |       |   |           |   |                           |   |                      |
+| ScreenTapShot   |   |       |   |           |   |                           |   |                      |
+| Sidudict        |   | X     |   |           |   |                           |   |                      |
 | Situations      |   | X     |   |           |   |                           |   |                      |
 | SomaFM          |   |       |   |           |   |                           |   |                      |
 | Space Inspector |   |       |   |           |   |                           |   |                      |
 | Sysmon          |   |       |   |           |   |                           |   |                      |
-| TAO Translator  |   |       |   |           |   |                           |   |                      |
 | Tabatimer       |   |       |   |           |   |                           |   |                      |
+| TAO Translator  |   | X     |   |           |   |                           |   |                      |
+| tt-rss		  |   |       |   |           |   |                           |   |                      |
 | Tweetian        |   |       |   |           |   |                           |   |                      |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
-| Webcat		  |   |       |   |           |   |                           |   |                      |
+| Webcat		  |   | X     |   |           |   |                           |   |                      |
 | Webpirate       |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
 | WiFiAnalyser	  |   |       |   |           |   |                           |   |                      |
-| cooktimer		  |   |       |   |           |   |                           |   |                      |
-| gPodder         |   | X     |   |           |   |                           |   |                      |
-| openvpn         |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   |                      |
-| qgvdial         |   |       |   |           |   |                           |   |                      |
-| tt-rss		  |   |       |   |           |   |                           |   |                      |
 | ytPlayer        |   |       |   |           |   |                           |   |                      |
 |                 |   |       |   |           |   |                           |   |                      |
 
