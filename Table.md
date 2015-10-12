@@ -43,7 +43,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | SailSoma        |   |       |   |           |   |                           |   |                      |
 | Sailbox         |   |       |   |           |   |                           |   |                      |
 | Sailfish Reboot         |   |       |   |           |   |                           |   |                      |
-| SailorGram      |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/dax/sailorgram)                      |
+| SailorGram      |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/sailorgram)                      |
 | SciCalculator   |   |       |   |           |   |                           |   |                      |
 | Screen-Message  |   |       |   |           |   |                           |   |                      |
 | ScreenTapShot   |   |       |   |           |   |                           |   |                      |
@@ -58,12 +58,12 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Tweetian        |   |       |   |           |   |                           |   |                      |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   |       |   |           |   |                           |   |                      |
-| Webpirate       |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
+| Webpirate       |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
 | WiFiAnalyser	  |   |       |   |           |   |                           |   |                      |
 | cooktimer		  |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | openvpn         |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release |   |                      |
+| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   |                      |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
 | ytPlayer        |   |       |   |           |   |                           |   |                      |
