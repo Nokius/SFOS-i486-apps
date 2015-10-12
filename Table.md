@@ -31,19 +31,19 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Lists           |   |       |   |           |   |                           |   |                      |
 | Markat          |   |       |   |           |   |                           |   |                      |
 | MeeRun          |   |       |   |           |   |                           |   |                      |
-| Modrana         |   | X     |   | X         |   | latest Version is nonarch on openrepos |   | https://openrepos.net/content/martink/modrana-0                     |
+| Modrana         |   | X     |   | X         |   | latest Version is nonarch on openrepos |   | [ more ](https://openrepos.net/content/martink/modrana-0)                     |
 | National Rail   |   |       |   |           |   |                           |   |                      |
 | Nethogs         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
 | Paint           |   |       |   |           |   |                           |   |                      |
-| PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | https://openrepos.net/content/otsaloma/poor-maps                     |
+| PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
 | QuasarMX        |   |       |   |           |   |                           |   |                      |
 | Received        |   |       |   |           |   |                           |   |                      |
 | Recorder        |   |       |   |           |   |                           |   |                      |
 | SailSoma        |   |       |   |           |   |                           |   |                      |
 | Sailbox         |   |       |   |           |   |                           |   |                      |
 | Sailfish Reboot         |   |       |   |           |   |                           |   |                      |
-| SailorGram      |   |       |   | X         |   |                           |   | https://openrepos.net/content/dax/sailorgram                      |
+| SailorGram      |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/dax/sailorgram)                      |
 | SciCalculator   |   |       |   |           |   |                           |   |                      |
 | Screen-Message  |   |       |   |           |   |                           |   |                      |
 | ScreenTapShot   |   |       |   |           |   |                           |   |                      |
@@ -58,7 +58,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Tweetian        |   |       |   |           |   |                           |   |                      |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   |       |   |           |   |                           |   |                      |
-| Webpirate       |   |       |   | X         |   |                           |   | https://openrepos.net/content/dax/webpirate                      |
+| Webpirate       |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
 | WiFiAnalyser	  |   |       |   |           |   |                           |   |                      |
 | cooktimer		  |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
