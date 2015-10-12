@@ -67,4 +67,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | qgvdial         |   |       |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
 | ytPlayer        |   |       |   |           |   |                           |   |                      |
-| xyz             |   |       |   |           |   |                           |   |                      |
+|                 |   |       |   |           |   |                           |   |                      |
+
+If zou add a entry please use this template and keep the alphabetic order Thanks =)
+| xyz             |   |       |   |           |   |                           |   | [ more ](http://example.com)                     |
