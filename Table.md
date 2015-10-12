@@ -27,24 +27,23 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Jolla Together  |   |       |   |           |   |                           |   |                      |
 | Kodimote        |   |       |   |           |   |                           |   |                      |
 | LLs VideoPlayer |   |       |   |           |   |                           |   |                      |
-| LLs VideoPlayer |   |       |   |           |   |                           |   |                      |
 | Lighthouse  	  |   |       |   |           |   |                           |   |                      |
 | Lists           |   |       |   |           |   |                           |   |                      |
 | Markat          |   |       |   |           |   |                           |   |                      |
 | MeeRun          |   |       |   |           |   |                           |   |                      |
-| Modrana         |   | X     |   | X         |   | latest Version is nonarch on openrepos |   |                      |
+| Modrana         |   | X     |   | X         |   | latest Version is nonarch on openrepos |   | https://openrepos.net/content/martink/modrana-0                     |
 | National Rail   |   |       |   |           |   |                           |   |                      |
 | Nethogs         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
 | Paint           |   |       |   |           |   |                           |   |                      |
-| PoorMaps        |   |       |   |           |   |                           |   |                      |
+| PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | https://openrepos.net/content/otsaloma/poor-maps                     |
 | QuasarMX        |   |       |   |           |   |                           |   |                      |
 | Received        |   |       |   |           |   |                           |   |                      |
 | Recorder        |   |       |   |           |   |                           |   |                      |
 | SailSoma        |   |       |   |           |   |                           |   |                      |
 | Sailbox         |   |       |   |           |   |                           |   |                      |
 | Sailfish Reboot         |   |       |   |           |   |                           |   |                      |
-| SailorGram      |   |       |   |           |   |                           |   |                      |
+| SailorGram      |   |       |   | X         |   |                           |   | https://openrepos.net/content/dax/sailorgram                      |
 | SciCalculator   |   |       |   |           |   |                           |   |                      |
 | Screen-Message  |   |       |   |           |   |                           |   |                      |
 | ScreenTapShot   |   |       |   |           |   |                           |   |                      |
@@ -59,12 +58,12 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Tweetian        |   |       |   |           |   |                           |   |                      |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   |       |   |           |   |                           |   |                      |
-| Webpirate       |   |       |   | X         |   |                           |   |                      |
-| WiFiAnalyzer	  |   |       |   |           |   |                           |   |                      |
+| Webpirate       |   |       |   | X         |   |                           |   | https://openrepos.net/content/dax/webpirate                      |
+| WiFiAnalyser	  |   |       |   |           |   |                           |   |                      |
 | cooktimer		  |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | openvpn         |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   |       |   |           |   |                           |   |                      |
+| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release |   |                      |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
 | ytPlayer        |   |       |   |           |   |                           |   |                      |
