@@ -21,7 +21,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Feed Haven      |   |       |   |           |   |                           |   |                      |
 | File Browser    |   |       |   |           |   |                           |   |                      |
 | File manager    |   |       |   |           |   |                           |   |                      |
-| FileCase        |   |       |   |           |   |                           |   |                      |
+| FileCase        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/cepiperez/filecase-0)                     |
 | Filetug         |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | GPSInfo         |   |       |   |           |   |                           |   |                      |
