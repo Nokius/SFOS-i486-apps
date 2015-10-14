@@ -21,7 +21,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Feed Haven      |   |       |   |           |   |                           |   |                      |
 | File Browser    |   |       |   |           |   |                           |   |                      |
 | File manager    |   |       |   |           |   |                           |   |                      |
-| FileCase        |   |       |   |           |   |                           |   |                      |
+| FileCase        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/cepiperez/filecase-0)                     |
 | Filetug         |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | GPSInfo         |   |       |   |           |   |                           |   |                      |
@@ -38,7 +38,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Nethogs         |   |       |   |           |   |                           |   |                      |
 | openvpn         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   |                      |
+| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
 | Paint           |   |       |   |           |   |                           |   |                      |
 | PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
@@ -61,7 +61,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Tabatimer       |   |       |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
-| Tweetian        |   |       |   |           |   |                           |   |                      |
+| Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   | X     |   |           |   |                           |   |                      |
 | Webpirate       |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
