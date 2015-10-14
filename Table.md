@@ -25,8 +25,8 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Filetug         |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | GPSInfo         |   |       |   |           |   |                           |   |                      |
-| HaveClip        |   | X     |   |           |   |                           |   |                      |
-| Jolla Together  |   |       |   |           |   |                           |   |                      |
+| HaveClip        |   |       |   |           |   |                           |   |                      |
+| Jolla Together  |   | X     |   |           |   |                           |   |                      |
 | Kodimote        |   |       |   |           |   |                           |   |                      |
 | Lighthouse  	  |   |       |   |           |   |                           |   |                      |
 | Lists           |   |       |   |           |   |                           |   |                      |
