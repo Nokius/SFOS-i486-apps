@@ -25,8 +25,8 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Filetug         |   |       |   |           |   |                           |   |                      |
 | gPodder         |   | X     |   |           |   |                           |   |                      |
 | GPSInfo         |   |       |   |           |   |                           |   |                      |
-| HaveClip        |   | X     |   |           |   |                           |   |                      |
-| Jolla Together  |   |       |   |           |   |                           |   |                      |
+| HaveClip        |   |       |   |           |   |                           |   |                      |
+| Jolla Together  |   | X     |   |           |   |                           |   |                      |
 | Kodimote        |   |       |   |           |   |                           |   |                      |
 | Lighthouse  	  |   |       |   |           |   |                           |   |                      |
 | Lists           |   |       |   |           |   |                           |   |                      |
@@ -38,8 +38,8 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Nethogs         |   |       |   |           |   |                           |   |                      |
 | openvpn         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   |       |   |           |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
-| Paint           |   |       |   |           |   |                           |   |                      |
+| ownKeepass	  |   | X     |   |           |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
+| Paint           |   | X     |   |           |   |                           |   |                      |
 | PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
 | QuasarMX        |   | X     |   |           |   |                           |   |                      |
@@ -58,7 +58,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | SomaFM          |   |       |   |           |   |                           |   |                      |
 | Space Inspector |   |       |   |           |   |                           |   |                      |
 | Sysmon          |   |       |   |           |   |                           |   |                      |
-| Tabatimer       |   |       |   |           |   |                           |   |                      |
+| Tabatimer       |   | X     |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
 | Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
