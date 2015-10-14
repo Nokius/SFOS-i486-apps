@@ -39,7 +39,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | openvpn         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
 | ownKeepass	  |   | X     |   |           |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
-| Paint           |   |       |   |           |   |                           |   |                      |
+| Paint           |   | X     |   |           |   |                           |   |                      |
 | PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
 | QuasarMX        |   | X     |   |           |   |                           |   |                      |
