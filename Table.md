@@ -57,8 +57,8 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Situations      |   | X     |   |           |   |                           |   |                      |
 | SomaFM          |   |       |   |           |   |                           |   |                      |
 | Space Inspector |   |       |   |           |   |                           |   |                      |
-| Sysmon          |   | x     |   |           |   |                           |   |                      |
-| Tabatimer       |   |       |   |           |   |                           |   |                      |
+| Sysmon          |   |       |   |           |   |                           |   |                      |
+| Tabatimer       |   | X     |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
 | Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
