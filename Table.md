@@ -57,7 +57,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Situations      |   | X     |   |           |   |                           |   |                      |
 | SomaFM          |   |       |   |           |   |                           |   |                      |
 | Space Inspector |   |       |   |           |   |                           |   |                      |
-| Sysmon          |   |       |   |           |   |                           |   |                      |
+| Sysmon          |   | x     |   |           |   |                           |   |                      |
 | Tabatimer       |   |       |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
