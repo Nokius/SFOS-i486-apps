@@ -61,7 +61,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Tabatimer       |   |       |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
 | tt-rss		  |   |       |   |           |   |                           |   |                      |
-| Tweetian        |   |       |   |           |   |                           |   |                      |
+| Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   | X     |   |           |   |                           |   |                      |
 | Webpirate       |   |       |   | X         |   | i486 package on openrepos |   | [ more ](https://openrepos.net/content/dax/webpirate)                      |
