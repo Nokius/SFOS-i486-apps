@@ -38,7 +38,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Nethogs         |   |       |   |           |   |                           |   |                      |
 | openvpn         |   |       |   |           |   |                           |   |                      |
 | OwnCloud        |   |       |   |           |   |                           |   |                      |
-| ownKeepass	  |   | X     |   |           |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
+| ownKeepass	  |   | X     |   | X         |   | 1.1.9 First tablet release but no package |   | [ more ](https://openrepos.net/content/jobe/ownkeepass)                     |
 | Paint           |   | X     |   |           |   |                           |   |                      |
 | PoorMaps        |   |       |   | X         |   | nonarch on openrepos      |   | [ more ](https://openrepos.net/content/otsaloma/poor-maps)                     |
 | qgvdial         |   |       |   |           |   |                           |   |                      |
@@ -60,7 +60,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Sysmon          |   |       |   |           |   |                           |   |                      |
 | Tabatimer       |   | X     |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
-| tt-rss		  |   |       |   |           |   |                           |   |                      |
+| tt-rss		  |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/cnlpete/ttrss-tiny-tiny-rss-reader-jolla)                     |
 | Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   | X     |   |           |   |                           |   |                      |
