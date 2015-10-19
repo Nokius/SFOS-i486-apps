@@ -60,7 +60,7 @@ If you spot a missing one or like to see a port of an exsisting application add 
 | Sysmon          |   |       |   |           |   |                           |   |                      |
 | Tabatimer       |   | X     |   |           |   |                           |   |                      |
 | TAO Translator  |   | X     |   |           |   |                           |   |                      |
-| tt-rss		  |   |       |   |           |   |                           |   |                      |
+| tt-rss		  |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/cnlpete/ttrss-tiny-tiny-rss-reader-jolla)                     |
 | Tweetian        |   |       |   | X         |   |                           |   | [ more ](https://openrepos.net/content/veskuh/tweetian-sailfish-os)                     |
 | Warehouse       |   |       |   |           |   |                           |   |                      |
 | Webcat		  |   | X     |   |           |   |                           |   |                      |
